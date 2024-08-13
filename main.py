@@ -1,6 +1,6 @@
 import random
 # A number guessing game.
-# the computer will randomly choose a number between 1 and 10
+# the computer will randomly choose a number between 1 and 20
 # The player will guess what number it is.
 # The player has maximum of 3 guesses.
 # If the player guesses right before maximum number of guess. Wins
@@ -8,7 +8,6 @@ import random
 # If player loses, show them the number the computer guessed.
 # write a function that tells users if their guess is too low or too high
 # Include a margin of +/- 2 or 3 to give a very close or too high/low message
-# Claude ai
 
 
 def number_guessing_game():
